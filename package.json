@@ -32,8 +32,5 @@
   "scripts": {
     "postinstall": "jspm install",
     "serve": "live-server ./app"
-  },
-  "dependencies": {
-    "bootstrap-material-design": "^0.5.10"
   }
 }
